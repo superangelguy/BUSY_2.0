@@ -158,11 +158,23 @@ The device supports integration with:
 
 ## Contributing
 
+There are several ways you can contribute to this project:
+
+### Code Contributions
+
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
+
+### Financial Support
+
+If you find this project useful and would like to support its development, you can make a donation:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/superangelguy)
+
+Your support helps maintain and improve this project. Thank you for your generosity!
 
 ## License
 
